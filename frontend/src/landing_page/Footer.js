@@ -8,6 +8,10 @@ function Footer() {
                          <div className="col">
                               <a className="navbar-brand" href="#"><img src="media/images/images/logo.svg" alt="Logo" style={{ width: '30%' }} /></a>
                               <p>© 2010 - 2024, Zerodha Broking Ltd. All rights reserved.</p>
+                              <a href="#" style={{ textDecoration: 'none' }} className="text-muted"><i class="fa-brands fa-x-twitter"></i></a>
+                              <a href="#" style={{ textDecoration: 'none' }} className="text-muted"><i class="fa-brands fa-facebook"></i></a>
+                              <a href="#" style={{ textDecoration: 'none' }} className="text-muted"><i class="fa-brands fa-linkedin"></i></a>
+                              <a href="#" style={{ textDecoration: 'none' }} className="text-muted"><i class="fa-brands fa-instagram"></i></a>
                          </div>
                          <div className="col">
                               <h6>Company</h6>

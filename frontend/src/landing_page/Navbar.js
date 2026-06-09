@@ -19,19 +19,19 @@ function Navbar() {
                                     <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                                    
                                    <li className="nav-item ">
-                                        <a className="nav-link active" aria-current="page" href="#">Signup</a>
+                                        <a className="nav-link active" aria-current="page" href="/signup">Signup</a>
                                    </li>
                                    <li className="nav-item ">
-                                        <a className="nav-link active" aria-current="page" href="#">About</a>
+                                        <a className="nav-link active" aria-current="page" href="/about">About</a>
                                    </li>
                                    <li className="nav-item ">
-                                        <a className="nav-link active" aria-current="page" href="#">Pricing</a>
+                                        <a className="nav-link active" aria-current="page" href="/pricing">Pricing</a>
                                    </li>
                                    <li className="nav-item ">
-                                        <a className="nav-link active" aria-current="page" href="#">Products</a>
+                                        <a className="nav-link active" aria-current="page" href="/products">Products</a>
                                    </li>
                                    <li className="nav-item ">
-                                        <a className="nav-link active" aria-current="page" href="#">Support</a>
+                                        <a className="nav-link active" aria-current="page" href="/support">Support</a>
                                    </li>
                                    <li className="nav-item ">
                                         <a className="nav-link active" aria-current="page" href="#"><i class="fa-solid fa-bars"></i></a>
